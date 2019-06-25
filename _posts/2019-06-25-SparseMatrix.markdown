@@ -56,7 +56,6 @@ Elem[2]|2|1|3
 
 
 <table>
-
     <tr>
         <td bgcolor=#FFFF00>1</td>
     </tr>
@@ -78,7 +77,6 @@ Elem[2]|2|1|3
     <tr>
         <td bgcolor=#20B2AA>3</td>
     </tr>
-    
 </table>
 
 
