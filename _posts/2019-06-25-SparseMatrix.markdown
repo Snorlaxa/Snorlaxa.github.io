@@ -4,7 +4,7 @@ title:      "数据结构——思考稀疏矩阵转置"
 subtitle:   " \"总结一些关于数据结构的想法\""
 date:       2019-06-25 16:07:00
 author:     "Snorlaxa"
-header-img: "img/post-bg-2015.jpg"
+header-img: "img/2019-06-25/bg-2019-06-25.jpg"
 catalog: true
 tags:
     - 数据结构
