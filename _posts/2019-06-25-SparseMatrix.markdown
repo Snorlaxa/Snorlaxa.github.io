@@ -54,31 +54,14 @@ Elem[2]|2|1|3
 
 三列，第1列：3个，第2/3列：2个
 
-
-<table>
-    <tr>
-        <td bgcolor=#FFFF00>1</td>
-    </tr>
-    <tr>
-        <td bgcolor=#FFFF00>1</td>
-    </tr>
-    <tr>
-        <td bgcolor=#FFFF00>1</td>
-    </tr>
-    <tr>
-        <td bgcolor=#EEB422>2</td>
-    </tr>
-    <tr>
-        <td bgcolor=#EEB422>2</td>
-    </tr>
-    <tr>
-        <td bgcolor=#20B2AA>3</td>
-    </tr>
-    <tr>
-        <td bgcolor=#20B2AA>3</td>
-    </tr>
-</table>
-
+1|
+--:
+1|
+1|
+2|
+2|
+3|
+3|
 
 如图，只需求出每出各列第一个元素即可得到列内全部元素的位置。
 
