@@ -18,7 +18,7 @@ tags:
 
     做法是使用Key的HashCode值进行一次hash操作，并将得到的值按照散列表的方式找到其在数组中的位置，这个过程就是数据结构中的哈希查找了。
 
-    ![HashMap](img/2019-07-12/hashmap.jpg "HashMap实现")
+    ![HashMap](/img/2019-07-12/hashmap.jpg "HashMap实现")
 
 + **哈希查找需要考虑的问题**
 
