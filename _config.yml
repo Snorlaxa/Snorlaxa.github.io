@@ -4,8 +4,8 @@ SEOTitle: Snorlaxa博客 | Snorlaxa Blog
 header-img: img/home_bg.jpg
 email: 1553141498@qq.com
 description: "也许是游戏，也许是后端，希望不会后悔，Life Is Fantastic| 这里是 @Snorlaxa 的个人博客。"
-keyword: "Snorlaxa, 游戏开发, Shader, 技术美术, 后端开发, 个人网站, 互联网, 分布式"
-url: ""              # your host, for absolute URL
+keyword: "Flink, Apache Nifi, 大数据, Java, 互联网"
+url: "https://snorlaxa.cn"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 #weibo_username:     
-zhihu_username:    yu-zi-yi-6-24
+#zhihu_username:    yu-zi-yi-6-24
 github_username:    Snorlaxa
 #twitter_username:   
 #facebook_username:  
