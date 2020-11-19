@@ -7,7 +7,9 @@ author:     "Snorlaxa"
 header-img: "img/2019-07-12/bg.jpg"
 catalog: true
 tags:
-    - 日常, 设计, 开发记录
+    - 日常
+    - 设计
+    - 开发记录
 ---
 
 ## 事情是这样的
