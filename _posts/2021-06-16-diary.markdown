@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "成为数据工程师的过去与未来"
-subtitle:   "\"思考1的片段\""
+subtitle:   "\"思考的片段\""
 date:       2021-06-12 00:37:00
 author:     "Snorlaxa"
 header-img: "img/2021-06-16/bg.jpg"
